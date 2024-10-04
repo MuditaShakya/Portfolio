@@ -11,19 +11,19 @@ const Portfolio = () => {
             id: 1,
             name: "Record Keeper",
             src: hms,
-            link: "https://github.com/GunjanShakya/Record-Keeper",
+            link: "https://github.com/MuditaShakya/RecordKeeper",
         },
         {
             id: 2,
             name: "Spotify Clone",
             src: spotify,
-            link: "https://github.com/MuditaShakya/SpotifyClone",
+            link: "https://spotifyclone-website.netlify.app",
         },
         {
             id: 3,
             name: "ThriveFitness",
             src: fitness,
-            link: "https://github.com/GunjanShakya/CollabWrite",
+            link: "https://thrivefitness.netlify.app",
         },
         {
             id: 4,
