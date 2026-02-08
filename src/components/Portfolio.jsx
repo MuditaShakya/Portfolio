@@ -29,7 +29,7 @@ const Portfolio = () => {
             id: 4,
             name: "InshortsClone",
             src: inshorts,
-            link: "https://github.com/GunjanShakya/Hackerrank_Automation",
+            link: "https://inshortsclone-frontend.onrender.com/",
         },
     ]
 
