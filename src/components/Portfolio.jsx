@@ -1,6 +1,9 @@
 import React from 'react'
 import spotify from '../assets/portfolio/spotify.png';
+import spotify from '../assets/portfolio/spotify.png';
 import hms from '../assets/portfolio/hms.JPG';
+import fitness from '../assets/portfolio/fitness.jpg';
+import inshorts from '../assets/portfolio/inshorts.jpg';
 import fitness from '../assets/portfolio/fitness.jpg';
 import inshorts from '../assets/portfolio/inshorts.jpg';
 
@@ -11,10 +14,13 @@ const Portfolio = () => {
             id: 1,
             name: "Record Keeper",
             src: hms,
-            link: "https://github.com/GunjanShakya/Record-Keeper",
+            link: "https://github.com/MuditaShakya/RecordKeeper",
         },
         {
             id: 2,
+            name: "Spotify Clone",
+            src: spotify,
+            link: "https://spotifyclone-website.netlify.app",
             name: "Spotify Clone",
             src: spotify,
             link: "https://github.com/MuditaShakya/SpotifyClone",
@@ -23,10 +29,16 @@ const Portfolio = () => {
             id: 3,
             name: "ThriveFitness",
             src: fitness,
+            link: "https://thrivefitness.netlify.app",
+            name: "ThriveFitness",
+            src: fitness,
             link: "https://github.com/GunjanShakya/CollabWrite",
         },
         {
             id: 4,
+            name: "InshortsClone",
+            src: inshorts,
+            link: "https://inshortsclone-frontend.onrender.com/",
             name: "InshortsClone",
             src: inshorts,
             link: "https://github.com/GunjanShakya/Hackerrank_Automation",
