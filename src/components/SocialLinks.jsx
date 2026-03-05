@@ -13,7 +13,7 @@ const SocialLinks = () => {
                 LinkedIn <FaLinkedin size={30}/>
                 </>
             ),
-            href: 'https://www.linkedin.com/in/gunjan-shakya-99540b195/',
+            href: 'https://www.linkedin.com/in/muditashakya/',
             style: 'rounded-tr-md'
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
                 GitHub <FaGithub size={30}/>
                 </>
             ),
-            href: 'https://github.com/GunjanShakya',
+            href: 'https://github.com/MuditaShakya',
         },
         {
             id: 3,
@@ -32,7 +32,7 @@ const SocialLinks = () => {
                 Mail <HiOutlineMail size={30}/>
                 </>
             ),
-            href: 'mailto:gunshky@gmail.com'
+            href: 'mailto:mudita123ms@gmail.com'
         },
         {
             id: 4,
@@ -41,7 +41,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: '/Gunjan Resume (1).pdf',
+            href: '/Mudita Resume.pdf',
             style: 'rounded-br-md',
             download: true,
         },

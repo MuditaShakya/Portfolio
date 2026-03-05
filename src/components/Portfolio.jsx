@@ -1,8 +1,8 @@
 import React from 'react'
-import autotyper from '../assets/portfolio/autotyper.PNG';
+import spotify from '../assets/portfolio/spotify.png';
 import hms from '../assets/portfolio/hms.JPG';
-import mongoExpress from '../assets/portfolio/mongoExpress.JPG';
-import pyalgo from '../assets/portfolio/pyalgo.JPG';
+import fitness from '../assets/portfolio/fitness.jpg';
+import inshorts from '../assets/portfolio/inshorts.jpg';
 
 const Portfolio = () => {
 
@@ -15,20 +15,20 @@ const Portfolio = () => {
         },
         {
             id: 2,
-            name: "Amazon Data Scraper API",
-            src: autotyper,
-            link: "https://rapidapi.com/gunjan1923cs1134/api/demoamazonscraper",
+            name: "Spotify Clone",
+            src: spotify,
+            link: "https://github.com/MuditaShakya/SpotifyClone",
         },
         {
             id: 3,
-            name: "Collab Write",
-            src: mongoExpress,
+            name: "ThriveFitness",
+            src: fitness,
             link: "https://github.com/GunjanShakya/CollabWrite",
         },
         {
             id: 4,
-            name: "Hackerrank Automation",
-            src: pyalgo,
+            name: "InshortsClone",
+            src: inshorts,
             link: "https://github.com/GunjanShakya/Hackerrank_Automation",
         },
     ]

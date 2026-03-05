@@ -1,6 +1,6 @@
 import React from 'react'
 // import heroImage from "../assets/heroImage.jpg";
-import pink11 from "../assets/pink11.jpg";
+import mudita from "../assets/mudita.jpg";
 import {MdKeyboardArrowRight} from 'react-icons/md';
 import { Link } from 'react-scroll'
 
@@ -10,10 +10,10 @@ const Home = () => {
         <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
             <div className="flex flex-col justify-center h-full">
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">
-                    I'm a Full Stack Developer
+                    I'm a Front-end Developer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md">
-                With a year of internship experience in crafting dynamic websites, I'm on a journey of continuous growth. My current passion involves creating web applications using MERN stack. As I evolve, I'm constantly adding new layers to my skill set.
+                I'm on a journey of continuous growth. My current passion involves creating web applications using MERN stack. As I evolve, I'm constantly adding new layers to my skill set.
                 </p>
 
                 <div>
@@ -30,7 +30,9 @@ const Home = () => {
                 </div>
             </div>
             <div>
-                <img src={pink11} alt="my profile" className="rounded-2xl mx-auto w-2/3 md:w-full" />
+            <img src={mudita} alt="my profile" className="rounded-2xl mx-auto w-1/2 md:w-3/4" />
+
+
             </div>
         </div>
     </div>

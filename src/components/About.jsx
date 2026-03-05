@@ -10,18 +10,21 @@ const About = () => {
                 </p>
             </div>
                 <p className="text-xl mt-20">
-                Greetings! I am a recent graduate with a B.Tech. degree in Computer Science and Engineering (2023 batch) from KIET Group Of Institutions, Ghaziabad (Delhi-NCR). 
+                Greetings! I am a final year student pursuing B.Tech. degree in Computer Science and Engineering (2025 batch) from KIET Group Of Institutions, Ghaziabad (Delhi-NCR). 
                 </p>
 
                 <br/>
 
                 <p className="text-xl">
-                I've spent a year as an intern, honing my skills in software building and design. I thrive on utilizing technologies like React, Node, Express, MongoDB, and Javascript to bring ideas to life. My curiosity extends to enhancing my proficiency in data structures and algorithms.
-                </p>
+                I've been dedicated to honing my skills in software building and design. I thrive on utilizing technologies like React, Node, Express, MongoDB, and JavaScript to bring ideas to life. My curiosity extends to enhancing my proficiency in data structures and algorithms.
+                 </p>
+                 <p className="text-xl">
+    I have dedicated time to honing my skills in software building and design. I thrive on utilizing technologies like React, Node, Express, MongoDB, and JavaScript to bring ideas to life. My curiosity extends to enhancing my proficiency in data structures and algorithms.
+</p>
+<p className="text-xl mt-6">
+   My journey includes completing over 200 DSA problems on LeetCode and GeeksforGeeks, sharpening my problem-solving skills. Additionally, I gained practical experience during my front-end internship at Oasis Infobyte, where I focused on creating responsive and user-friendly web applications.
+</p>
 
-                <p className="text-xl mt-6">
-                My journey includes successfully contributing to secure payment systems at Thales, where I played a pivotal role in enhancing the payShield 10K application. Additionally, my time at IBM allowed me to refine my skills in web application development and user-centric design.
-                </p>
             
         </div>
     </div>
