@@ -19,6 +19,26 @@ const About = () => {
                 I've been dedicated to honing my skills in software building and design. I thrive on utilizing technologies like React, Node, Express, MongoDB, and JavaScript to bring ideas to life. My curiosity extends to enhancing my proficiency in data structures and algorithms.
                  </p>
                  <p className="text-xl">
+
+                  <div className="mt-10 space-x-4">
+
+                      {/* Button using input element */}
+                      <input
+                          type="button"
+                          value="Input Button"
+                          className="px-6 py-2 bg-blue-500 rounded-lg cursor-pointer hover:bg-blue-600"
+                          onClick={() => console.log("Input Button Clicked")}
+                      />
+
+                      {/* Normal button */}
+                      <button
+                          className="px-6 py-2 bg-green-500 rounded-lg cursor-pointer hover:bg-green-600"
+                          onClick={() => console.log("Normal Button Clicked")}
+                      >
+                          Normal Button
+                      </button>
+
+                  </div>
     I have dedicated time to honing my skills in software building and design. I thrive on utilizing technologies like React, Node, Express, MongoDB, and JavaScript to bring ideas to life. My curiosity extends to enhancing my proficiency in data structures and algorithms.
 </p>
 <p className="text-xl mt-6">
